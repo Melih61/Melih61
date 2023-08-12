@@ -3,6 +3,7 @@
   <h1>maleh</h1>
 </div>
 <div id="badges" align="center">
+  <h2>Social media:</h2>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>

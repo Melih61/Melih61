@@ -17,7 +17,5 @@
   </h1>
 </div>
 <div>
-  ---
-
-  ### :woman_technologist: About Me :
+  ### 👨‍💻: About Me :
 </div>

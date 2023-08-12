@@ -1,7 +1,3 @@
-WELCOME TO MY GITHUB PAGE
-
-my biggest projects are:
-malehTerminal
-malehCheats
-
-all of my projects are written in python
+<div id="header" align="center">
+  <img src="https://media.discordapp.net/attachments/1094393138078044341/1140035733462192128/me.png" width="100"/>
+</div>

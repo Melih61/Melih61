@@ -1,16 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.discordapp.net/attachments/1094393138078044341/1140035733462192128/me.png" width="100"/>
-  <h1>maleh</h1>
 </div>
 <div id="badges" align="center">
-  <h2>Social media:</h2>
-  <a href="your-linkedin-URL">
+  <a href="https://instagram.com/melih.ro">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCAxUyF37wenIG1BwlbKesVg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://snapchat.com/add/melih6eins">
     <img src="https://img.shields.io/badge/Snapchat-yellow?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat Badge"/>
   </a>
   <h1>

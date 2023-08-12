@@ -22,7 +22,7 @@
   <h5>- 👨‍🎓 I create projects in python</h5>
   <h5>- ⛏️ I also create Minecraft plugins</h5>
   <h5>- 📘 Iam currently learning C++, penetration testing and advanced python</h5>
-  <h5>- 🎮 In my freetime I play a lot of video games, go out and code a lot</h5>
+  <h5>- 🎮 In my freetime I play video games, go out and code a lot</h5>
 </div>
 <div>
   <h2>🛠️ Languages and Tools: </h2>

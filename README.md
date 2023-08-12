@@ -17,9 +17,20 @@
   </h1>
 </div>
 <div>
-  <h2>👨‍💻: About Me :</h2>
+  <h2>👨‍💻: About Me: </h2>
   <h4>I'm a developer from germany</h4>
   <h5>- 👨‍🎓 I create projects using python</h5>
   <h5>- ⛏️ I also create Minecraft plugins</h5>
+  <h5>- 📘 Iam currently learning C++ and penetration testing and advanced python</h5>
   <h5>- 🎮 In my freetime I play a lot of video games, go out and code a lot</h5>
+</div>
+<div>
+  <h2>🛠️ Languages and Tools: </h2>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp; 
+  </div>
 </div>
